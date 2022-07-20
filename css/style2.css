@@ -3,6 +3,10 @@ html {
     margin: 0;
     padding: 0;
     height: 100%;
+    overflow-x: hidden;
+}
+
+body {
     background: url(img/mainbg.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -webkit-background-size: cover;
